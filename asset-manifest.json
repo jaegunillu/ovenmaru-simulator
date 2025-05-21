@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ovenmaru-simulator/static/css/main.41b29053.css",
-    "main.js": "/ovenmaru-simulator/static/js/main.e880ebf6.js",
+    "main.js": "/ovenmaru-simulator/static/js/main.7bdc76f8.js",
     "index.html": "/ovenmaru-simulator/index.html",
     "main.41b29053.css.map": "/ovenmaru-simulator/static/css/main.41b29053.css.map",
-    "main.e880ebf6.js.map": "/ovenmaru-simulator/static/js/main.e880ebf6.js.map"
+    "main.7bdc76f8.js.map": "/ovenmaru-simulator/static/js/main.7bdc76f8.js.map"
   },
   "entrypoints": [
     "static/css/main.41b29053.css",
-    "static/js/main.e880ebf6.js"
+    "static/js/main.7bdc76f8.js"
   ]
 }
